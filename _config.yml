@@ -1,7 +1,7 @@
 title: Niklp
-subtitle: A Portfolio Jekyll Theme Built for Developers
+subtitle: My small Blog
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  My small website with blog
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -21,9 +21,9 @@ urls:
 author_logo: profile.png
 author: Niklp
 author_bio: Hi, my name is Nik
-author_email: "mail@sujaykundu.com"
+author_email: ""
 author_location: Germany
-author_website_url: "https://sujaykundu.com"
+author_website_url: "https://niklp09.github.io"
 typewrite-text: I'm a Linux user.
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
