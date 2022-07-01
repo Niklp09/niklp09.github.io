@@ -159,7 +159,6 @@ This Project has actions to auto deploy jekyll to github pages and firebase. The
 - Headless CMS Admin Support using [Netlify CMS](https://sujaykundu.com/blog/how-to-setup-netlify-cms-with-github-pages-hosted-jekyll-blog/)
 - Supports Latest [Jekyll 4.x](https://jekyllrb.com) and [Bundler](https://bundler.io)
 - Stylesheet built using Sass
-- Comments using [Hyvor](https://talk.hyvor.com/) and [Disqus](https://disqus.com/)
 - SEO-optimized
 - Real Time Search - [Algolia](https://sujaykundu.com/blog/adding-real-time-search-to-jekyll-site-using-algolia/)
 - Sell Stuff (Ecommerce) in your Blog using [Snipcart](https://snipcart.com/)
