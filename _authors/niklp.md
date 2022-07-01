@@ -2,9 +2,9 @@
 name: Niklp
 username: niklp
 bio: "Hi I'm Nik"
-site: http://johndoe.com
+site: https://niklp09.github.io
 avatar: niklp.png
-email: mail@johndoe.com
+email: bruh@bruh.bruh
 social:
     - title: "github"
       url: "https://github.com/niklp09"
